@@ -58,13 +58,12 @@ Here are some ideas to get you started:
 ### 💬 **Let's Connect!**  
 👀 Looking for **tech collabs**, **internship opportunities**, or just wanna geek out? Hit me up!  
 
-📩 **Email:** shrylb@example.com *(or just drop a GitHub issue 🤷‍♀️)*  
+📩 **Email:** sherylbetonio.work@gmail.com *(or just drop a GitHub issue 🤷‍♀️)*  
 📌 **GitHub:** [@shrylb](https://github.com/shrylb)  
 🔗 **LinkedIn:** [Sheryl Betonio](https://www.linkedin.com/in/sheryl-betonio-6578b0313/)  
 
 ---  
-🌟 *"Code, create, caffeinate... repeat!"* ☕🚀  
+🌟 *"Code, create, play stardew... repeat!"* 🚀  
 
 ---
 
-Let me know if you want to tweak anything! 😆🔥
