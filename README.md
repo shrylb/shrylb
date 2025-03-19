@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shrylb/shrylb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sure! Here’s a fun and engaging **README** for your GitHub profile. It reflects your personality, interests, and projects while keeping things light and entertaining! 😆🚀  
-
----
 
 ## **Hey there! I'm Sheryl Betonio 👋🐱‍💻**  
 
