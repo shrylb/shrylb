@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/shrylb?style=social)](https://github.com/shrylb)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheryl%20Betonio-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sheryl-betonio-6578b0313/)  
 
-> 🧠 *"Eager to learn, quick to start... and occasionally forget to finish (but working on it!)"*  
+> 🧠 *"Eager to learn, quick to start... and occasionally forget to finish (but working on it!)"*
+> *"update: AAACCKK TUKIB DEVELOPMENT IS GETTING CLOSE TO ITS FINISHLINE "*
 
 ### 🌱 **About Me**  
 🎓 **Computer Science Student @ UP Visayas**  
@@ -31,32 +32,32 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 **Tech Stack & Tools**  
-💻 **Languages:** JavaScript, Python, LaTeX  
+💻 **Languages:** JavaScript, Python, LaTeX, C
 🖌 **Frontend:** React.js, HTML5, CSS  
-🛠 **Backend:** PostgreSQL, Rasa (chatbots)  
+🛠 **Backend:** PostgreSQL, Snowflake, Rasa (chatbots)  
 🎨 **Design:** Figma  
 📂 **Version Control:** Git, GitHub  
 
 ---
 
 ### 📌 **What I'm Up To?**  
-- 🌳 *Developing* **Adopt A Tree** - a tree-planting gamified mobile app  
+- 🌳 *Developing* **DSWTree** - a tree-planting gamified mobile app  
 - 🎙 *Podcasting* about **data privacy & consent** in "Cookie Podcast"  
 - 🔬 *Building* **PARAISKO** - a funding app for state university scholars  
-- 🤖 *Debugging* chatbots that refuse to cooperate (seriously, Rasa, why?)  
+- 🤖 *Debugging* because we aren't letting these bed bugs byte 
 
 ---
 
 ### 🏆 **Fun Facts About Me**  
 🦸‍♀️ My **superpower**: Starting projects with insane enthusiasm 💥  
-📖 Read a book just because someone gave it to me (shoutout to Ann!)  
+📖 LOVES to read books
 🎤 Auditioned for something that required me to sing… still alive somehow  
-🌊 Working on an infographic about **plastic pollution** because the sea ≠ landfill  
+🌊 Working on an infographic about **plastic pollution** because the sea !== landfill  
 
 ---
 
 ### 💬 **Let's Connect!**  
-👀 Looking for **tech collabs**, **internship opportunities**, or just wanna geek out? Hit me up!  
+👀 Looking for **tech collabs**, **internship opportunities**, **entry level job offerings**, or just wanna geek out? Hit me up!  
 
 📩 **Email:** sherylbetonio.work@gmail.com *(or just drop a GitHub issue 🤷‍♀️)*  
 📌 **GitHub:** [@shrylb](https://github.com/shrylb)  
