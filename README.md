@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheryl%20Betonio-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sheryl-betonio-6578b0313/)  
 
 > 🧠 *"Eager to learn, quick to start... and occasionally forget to finish (but working on it!)"*
-> *"update: AAACCKK TUKIB DEVELOPMENT IS GETTING CLOSE TO ITS FINISHLINE "*
+> 
+> *update: YEYY TUKIB DEVELOPMENT IS GETTING CLOSE TO ITS FINISHLINE*
 
 ### 🌱 **About Me**  
 🎓 **Computer Science Student @ UP Visayas**  
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 **Tech Stack & Tools**  
-💻 **Languages:** JavaScript, Python, LaTeX, C
+💻 **Languages:** JavaScript, Python, LaTeX, C, SQL
 🖌 **Frontend:** React.js, HTML5, CSS  
 🛠 **Backend:** PostgreSQL, Snowflake, Rasa (chatbots)  
 🎨 **Design:** Figma  
@@ -48,11 +49,12 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆 **Fun Facts About Me**  
+### 🏆 **Some Facts About Me**  
 🦸‍♀️ My **superpower**: Starting projects with insane enthusiasm 💥  
-📖 LOVES to read books
-🎤 Auditioned for something that required me to sing… still alive somehow  
-🌊 Working on an infographic about **plastic pollution** because the sea !== landfill  
+📖 LOVES to read books; I also looove buying them, I could spend hours in book sales || bookstores  
+🎤 Auditioned for something that required me to sing… *still alive somehow*  
+🌊 Worked on an infographic about **plastic pollution** because the sea !== landfill   
+😸 Allergic to cats but absolutely adore them    
 
 ---
 
@@ -64,7 +66,7 @@ Here are some ideas to get you started:
 🔗 **LinkedIn:** [Sheryl Betonio](https://www.linkedin.com/in/sheryl-betonio-6578b0313/)  
 
 ---  
-🌟 *"Code, create, play stardew... repeat!"* 🚀  
+🌟 *"Code, create, eat, play stardew valley... repeat!"* 🚀  
 
 ---
 
