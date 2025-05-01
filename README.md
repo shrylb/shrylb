@@ -1,72 +1,119 @@
-<!--
-**shrylb/shrylb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## **Hey there! I'm Sheryl Betonio 👋🐱‍💻**  
+## 👋 Hi, I'm Sheryl B.  
 
 [![GitHub followers](https://img.shields.io/github/followers/shrylb?style=social)](https://github.com/shrylb)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheryl%20Betonio-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sheryl-betonio-6578b0313/)  
 
-> 🧠 *"Eager to learn, quick to start... and occasionally forget to finish (but working on it!)"*
-> 
-> *update: YEYY TUKIB DEVELOPMENT IS GETTING CLOSE TO ITS FINISHLINE*
+---
 
-### 🌱 **About Me**  
-🎓 **Computer Science Student @ UP Visayas**  
-🛠 **Currently building:** [TUKIB](https://github.com/shrylb) - a workflow automation system  
-🌍 **Passionate about:** Software Development, UI/UX, and making tech *actually* useful  
-🎮 **Gaming (sort of):** I am starting a WordPress blog that rates the games I've played!  
-☕ **Surviving on:** Matcha, Malungay Pandesal, and occasional existential crises  
+### 🌱 About Me
+🎓 Computer Science Student @ UP Visayas  
+💡 Passionate about software that solves real-world problems  
+🎨 Enthusiastic about UI/UX, automation, and digital equity  
+🎮 Side quest: blogging about video games  
 
 ---
 
-### 🚀 **Tech Stack & Tools**  
-💻 **Languages:** JavaScript, Python, LaTeX, C, SQL
-🖌 **Frontend:** React.js, HTML5, CSS  
-🛠 **Backend:** PostgreSQL, Snowflake, Rasa (chatbots)  
-🎨 **Design:** Figma  
-📂 **Version Control:** Git, GitHub  
+## 🧰 Tech Stack:
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
+</p>
+
+<p align="left">
+  <!-- Frontend/Backend/Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+</p>
+
+<p align="left">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+</p>
+
+<p align="left">
+  <!-- Tools and Platforms -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plex-E5A00D?style=flat&logo=plex&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"/>
+</p>
+
+<p align="left">
+  <!-- Data Science & AI -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+</p>
+
+<p align="left">
+  <!-- Design Tools -->
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/>
+</p>
+  
 
 ---
 
-### 📌 **What I'm Up To?**  
-- 🌳 *Developing* **DSWTree** - a tree-planting gamified mobile app  
-- 🎙 *Podcasting* about **data privacy & consent** in "Cookie Podcast"  
-- 🔬 *Building* **PARAISKO** - a funding app for state university scholars  
-- 🤖 *Debugging* because we aren't letting these bed bugs byte 
+### 🏆 GitHub Stats
+![Sheryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrylb&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrylb&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrylb&theme=radical)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=shrylb&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
-### 🏆 **Some Facts About Me**  
-🦸‍♀️ My **superpower**: Starting projects with insane enthusiasm 💥  
-📖 LOVES to read books; I also looove buying them, I could spend hours in book sales || bookstores  
-🎤 Auditioned for something that required me to sing… *still alive somehow*  
-🌊 Worked on an infographic about **plastic pollution** because the sea !== landfill   
-😸 Allergic to cats but absolutely adore them    
+### ✨ A Little More About Me
+- 😸 Allergic to cats but adore them anyway  
+- 🎤 Survived a singing audition (barely)  
+- 🌊 Passionate about sustainability & digital advocacy  
 
 ---
 
-### 💬 **Let's Connect!**  
-👀 Looking for **tech collabs**, **internship opportunities**, **entry level job offerings**, or just wanna geek out? Hit me up!  
-
-📩 **Email:** sherylbetonio.work@gmail.com *(or just drop a GitHub issue 🤷‍♀️)*  
-📌 **GitHub:** [@shrylb](https://github.com/shrylb)  
+### 📫 Let's Connect
+📧 **Email:** sherylbetonio.work@gmail.com  
+🐙 **GitHub:** [@shrylb](https://github.com/shrylb)  
 🔗 **LinkedIn:** [Sheryl Betonio](https://www.linkedin.com/in/sheryl-betonio-6578b0313/)  
 
----  
-🌟 *"Code, create, eat, play stardew valley... repeat!"* 🚀  
-
 ---
 
+*“Code, create, drink matcha, play Stardew… repeat!”* 🌟
