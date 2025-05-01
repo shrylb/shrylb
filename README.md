@@ -9,7 +9,6 @@
 🎓 Computer Science Student @ UP Visayas  
 💡 Passionate about software that solves real-world problems  
 🎨 Enthusiastic about UI/UX, automation, and digital equity  
-🎮 Side quest: blogging about video games  
 
 ---
 
@@ -29,40 +28,29 @@
 <p align="left">
   <!-- Frontend/Backend/Frameworks -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 </p>
 
 <p align="left">
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
 <p align="left">
   <!-- Tools and Platforms -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plex-E5A00D?style=flat&logo=plex&logoColor=black"/>
   <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"/>
 </p>
 
@@ -80,11 +68,6 @@
 
 <p align="left">
   <!-- Design Tools -->
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
@@ -102,13 +85,6 @@
 
 ---
 
-### ✨ A Little More About Me
-- 😸 Allergic to cats but adore them anyway  
-- 🎤 Survived a singing audition (barely)  
-- 🌊 Passionate about sustainability & digital advocacy  
-
----
-
 ### 📫 Let's Connect
 📧 **Email:** sherylbetonio.work@gmail.com  
 🐙 **GitHub:** [@shrylb](https://github.com/shrylb)  
@@ -116,4 +92,4 @@
 
 ---
 
-*“Code, create, drink matcha, play Stardew… repeat!”* 🌟
+*“Code, create, play Stardew… repeat!”* 🌟
