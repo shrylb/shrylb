@@ -6,8 +6,8 @@
 ---
 
 ### 🌱 About Me
-🎓 Computer Science Student @ UP Visayas  
-💡 Passionate about software that solves real-world problems  
+🎓 Computer Science Graduate @ UP Visayas  
+💡 Passionate about software that solves real-world problems, and making coding fun! 
 🎨 Enthusiastic about UI/UX, automation, and digital equity  
 
 ---
