@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-🎓 Computer Science Graduate @ UP Visayas  
+🎓 Computer Science Graduate @ University of the Philippines - Visayas  
 💡 Passionate about software that solves real-world problems, and making coding fun!                       
 🎨 Enthusiastic about UI/UX, automation, and digital equity  
 
