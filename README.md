@@ -1,18 +1,18 @@
-## 👋 Hi, I'm Sheryl B.  
+## Hi, I'm Sheryl B.  
 
 [![GitHub followers](https://img.shields.io/github/followers/shrylb?style=social)](https://github.com/shrylb)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheryl%20Betonio-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sheryl-betonio-6578b0313/)  
 
 ---
 
-### 🌱 About Me
+### About Me
 🎓 Computer Science Graduate @ UP Visayas  
 💡 Passionate about software that solves real-world problems, and making coding fun!                       
 🎨 Enthusiastic about UI/UX, automation, and digital equity  
 
 ---
 
-## 🧰 Tech Stack:
+## Tech Stack:
 
 <p align="left">
   <!-- Languages -->
@@ -80,8 +80,6 @@
 ### 🏆 GitHub Stats
 ![Sheryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrylb&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrylb&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrylb&theme=radical)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=shrylb&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
