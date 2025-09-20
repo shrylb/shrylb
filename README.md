@@ -74,13 +74,13 @@
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/>
 </p>
   
-
+<!--
 ---
 
-### 🏆 GitHub Stats
+### GitHub Stats
 ![Sheryl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrylb&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrylb&layout=compact&theme=radical)  
-
+-->
 ---
 
 ### 📫 Let's Connect
