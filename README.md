@@ -87,6 +87,7 @@
 📧 **Email:** sherylbetonio.work@gmail.com  
 🐙 **GitHub:** [@shrylb](https://github.com/shrylb)  
 🔗 **LinkedIn:** [Sheryl Betonio](https://www.linkedin.com/in/sheryl-betonio-6578b0313/)  
+🌐 **Get to Know Me More:** [Sheryl Betonio](https://portfolio-studio-bice.vercel.app/)
 
 ---
 
